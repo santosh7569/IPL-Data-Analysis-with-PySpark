@@ -19,8 +19,8 @@ This project demonstrates data analysis of IPL (Indian Premier League) cricket m
 - **Additional Libraries**: Matplotlib (for data visualization)
 
 ## Dataset download link
-- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklpZlJFSTNiR3dLUWdtMlpuZTJfWm1WQUJZZ3xBQ3Jtc0ttUnhhVy1sRjROTUZ2UWRCaG5IZHhsN1J6NmdWOXBJTjJtQ1VIQkg5WExvMVdlenh4cFVyZkdKbWpWRXRtMDQ2ckRXRzNYTE5uS1djZ3BYaDZpbzgzSFQ4LW1PSERFWHA0OTM0Y1hyc3NtVWNUdkdQRQ&q=https%3A%2F%2Fdata.world%2Fraghu543%2Fipl-data-till-2017&v=0iNJPKheQqM
-
+- https://data.world/raghu543/ipl-data-till-2017
+  
 ## Future Scope
 - Add predictive modeling for player performance.
 - Extend analysis to include batting, fielding, and season-wise trends.
